@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorWqzx
+- 👋 Hi, I’m Victor
 - 👀 I’m interested in Frontend,Backend and game develop
 - 🌱 I’m currently learning css,js,phyton
 - 💞️ I’m looking to collaborate on -
