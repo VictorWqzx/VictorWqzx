@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor
 - 👀 I’m interested in Frontend,Backend and game develop
-- 🌱 I’m currently learning css,js,phyton
+- 🌱 I’m currently learning css, html, js.
 - 📫 How to reach me t.me/@mashup1337
 
 <!---
