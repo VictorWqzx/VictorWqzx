@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Victor
-- 👀 I’m interested in Frontend,Backend and game develop
-- 🌱 I’m currently learning css, html, js.
+- 👋 Hi, I’m Victor.
+- 👀 I’m interested in Frontend,Backend and game development.
+- 🌱 I’m currently learning css, html, js, ts, vite, react.
 - 📫 How to reach me t.me/@mashup1337
 
 <!---
